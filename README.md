@@ -7,9 +7,7 @@
 ## Instalación
 - Clona este repositorio en tu equipo:
   
-<code>
-git clone https://github.com/tu-usuario/tu-repositorio.git
-</code>
+<code> git clone https://github.com/tu-usuario/tu-repositorio.git </code>
 
 
 ## Accede al directorio del repositorio:
