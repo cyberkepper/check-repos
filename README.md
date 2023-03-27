@@ -11,17 +11,14 @@
 
 
 ## Accede al directorio del repositorio:
-<code>
-cd check-repo
-npm install
-</code>
+<code>cd check-repo</code>
+<code>npm install</code>
 
 ## Uso
 - Abre el archivo main.js y define los repositorios que quieres verificar.
 - Ejecuta el programa:
-<code>
-yarn start
-</code>
+<code>yarn start</code>
+
 - El programa mostrará una lista de los repositorios que has definido y los marcará con un símbolo de verificación si están actualizados y con una cruz si no lo están.
 
 ## Contribución
